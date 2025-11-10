@@ -56,7 +56,7 @@ FlexInstaller downloads your software trough a dropbox url.
 <img width="493" height="372" alt="Screenshot 2025-11-10 134143" src="https://github.com/user-attachments/assets/23bf4704-c0dd-460c-9011-3ee293d26094" />
 
 # ***License*** 
-See <a href="https://github.com/iamsopotatoe-coder/Flex-Installer/blob/main/LICENSE" target="_blank" rel="noopener noreferrer">LICENSE</a> for terms.
+See <a href="https://github.com/iamsopotatoe-coder/Flex-Installer/license" target="_blank" rel="noopener noreferrer">LICENSE</a> for terms.
 
 
 # ***Contributing***
