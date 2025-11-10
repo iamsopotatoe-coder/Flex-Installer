@@ -8,7 +8,8 @@ FlexInstaller is an open source installation wizard builder/generator written in
 It is highly customizable trough the config file. It features all features that a normal installer has but FlexInstaller exceeds at its ease of use.
 FlexInstaller downloads your software trough a dropbox url.
 
-<img src="https://github.com/user-attachments/assets/5ed6c998-8659-446a-80f2-d3918bade3e6" width="600" alt="Flex Installer Logo" />
+![Lucid_Origin_professional_software_logo_banner_featuring_the_p_3 (1)](https://github.com/user-attachments/assets/c35c911a-0025-43bc-b6e3-807e79c79ba7)
+
 
 # ***Features*** 
 
