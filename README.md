@@ -41,23 +41,19 @@ FlexInstaller downloads your software trough a dropbox url.
 
 # ***Installer UI***
 
-<img width="487" height="371" alt="Screenshot 2025-11-10 133612" src="https://github.com/user-attachments/assets/50de9d3b-c204-4b4d-a440-553f267d7a16" />
-
-<img width="488" height="375" alt="Screenshot 2025-11-10 133620" src="https://github.com/user-attachments/assets/a74f1ba4-789d-4456-886c-723f9476fcc1" />
-
-<img width="498" height="375" alt="Screenshot 2025-11-10 133931" src="https://github.com/user-attachments/assets/72280ea6-f3a0-4084-b6bb-af1bb3b142b1" />
-
-<img width="486" height="369" alt="Screenshot 2025-11-10 133629" src="https://github.com/user-attachments/assets/cde0a01b-7e42-4e36-8530-0060199315f1" />
+| | |
+|:---:|:---:|
+| <img width="400" src="https://github.com/user-attachments/assets/50de9d3b-c204-4b4d-a440-553f267d7a16" /> | <img width="400" src="https://github.com/user-attachments/assets/a74f1ba4-789d-4456-886c-723f9476fcc1" /> |
+| <img width="400" src="https://github.com/user-attachments/assets/72280ea6-f3a0-4084-b6bb-af1bb3b142b1" /> | <img width="400" src="https://github.com/user-attachments/assets/cde0a01b-7e42-4e36-8530-0060199315f1" /> |
 
 # ***Uninstaller UI***
 
-<img width="491" height="373" alt="Screenshot 2025-11-10 134137" src="https://github.com/user-attachments/assets/cde8c340-6230-4d16-ae57-f1171e35a191" />
-
-<img width="493" height="372" alt="Screenshot 2025-11-10 134143" src="https://github.com/user-attachments/assets/23bf4704-c0dd-460c-9011-3ee293d26094" />
+| | |
+|:---:|:---:|
+| <img width="400" src="https://github.com/user-attachments/assets/cde8c340-6230-4d16-ae57-f1171e35a191" /> | <img width="400" src="https://github.com/user-attachments/assets/23bf4704-c0dd-460c-9011-3ee293d26094" /> |
 
 # ***License*** 
-See <a href="https://github.com/iamsopotatoe-coder/Flex-Installer/license" target="_blank" rel="noopener noreferrer">LICENSE</a> for terms.
-
+See the license file for terms.
 
 # ***Contributing***
 Issues and pull requests for improvements and features are welcome.
