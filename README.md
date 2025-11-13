@@ -44,6 +44,7 @@ FlexInstaller downloads your software trough a dropbox url.
 5. ***Put your dropbox link into the config file***
 6. ***Run build.bat and enjoy!***
 
+[![Download](https://img.shields.io/github/v/release/iamsopotatoe-coder/Flex-Installer?style=for-the-badge&logo=github&label=Download%20Latest&color=00ADD8&labelColor=000000&logoColor=white)](https://github.com/iamsopotatoe-coder/Flex-Installer/releases/latest)
 # ***Installer UI***
 
 | | |
