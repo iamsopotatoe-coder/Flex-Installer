@@ -70,5 +70,9 @@ Thanks everyone from Reddit for the feedback and support!
 Planning to add GitHub-based distribution next (suggested by the community).
 Iam working and planning on more improvements and i appreciate all the feedback!
 
+[![Star on GitHub](https://img.shields.io/badge/Star%20on%20GitHub-0ea5e9?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/iamsopotatoe-coder/Flex-Installer)
+[![Report a Bug](https://img.shields.io/badge/Report%20a%20Bug-0ea5e9?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/iamsopotatoe-coder/Flex-Installer/issues/new)
+[![Request Feature](https://img.shields.io/badge/Request%20Feature-0ea5e9?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/iamsopotatoe-coder/Flex-Installer/issues/new)
+
 
 
