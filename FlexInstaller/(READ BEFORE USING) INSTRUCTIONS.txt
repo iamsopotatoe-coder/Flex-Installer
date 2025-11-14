@@ -1,0 +1,35 @@
+FLEXINSTALLER - ALL-IN-ONE INSTALLER v3.0
+=========================================
+
+STEP 1: CONFIGURE YOUR APP
+- Edit Config.cs with your app details
+- Set your Dropbox or github download URL  
+- Customize messages, paths, and options
+
+STEP 2: BUILD INSTALLER
+- Run build.bat
+- Enter output filename
+- .exe file created in output\ folder
+
+STEP 3: DISTRIBUTE
+- Just share the .exe file!
+
+(Recommended) GitHub setup:
+1. Go to GitHub and make a new public repo
+2. Put the .exe you want to download in a release
+3. Get the download url (e.g. "https://github.com/iamsopotatoe-coder/test1/releases/download/test/XeninesBrowser.exe")
+4. Put the url into the config file
+
+DROPBOX SETUP:
+1. Go to https://www.dropbox.com/developers/apps
+2. Create new app
+3. Upload your program file  
+4. Get direct download link (replace "?dl=0" at the end with "?dl=1" to share URL)    !!!VERY IMPORTANT OR IT WONT WORK!!!
+5. Put the URL into config
+
+HOW IT WORKS:
+- Single .exe contains both installer and uninstaller
+- During installation, copies itself as "uninstall.exe"
+- Windows Add/Remove Programs points to uninstall.exe
+- When uninstall.exe runs it detects its an uninstaller and shows uninstall GUI
+- Completely removes app, shortcuts registry entries, and itself
